@@ -16,8 +16,8 @@ async function publicizeOrganization() {
   const octokit = new Octokit({ auth: accessToken });
 
   let response = await octokit.request('PUT /orgs/{org}/public_members/{username}', {
-    org: 'Organization name goes here',
-    username: 'Your GitHub Username goes here'
+    org: 'Organization name goes here.',
+    username: 'Your GitHub Username goes here.'
   });
 
   console.log(response);
