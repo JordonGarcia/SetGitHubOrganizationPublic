@@ -5,7 +5,7 @@ I Created this due to being in a very large organization, and was unable to sear
 # About
 Using NodeJS, Octokit, and the GitHub REST API, this is a simple way to change your organization visibility to public from private.
 
-# While using NodeJS and npm
+# Using NodeJS and npm
 > Install Octokit in npm "npm i octokit" || You can also use the octokit CDN (See main.js)
 
 > Make sure you config your personal access token. More info in main.js and here: 
