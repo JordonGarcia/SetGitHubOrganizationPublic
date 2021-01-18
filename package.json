@@ -1,0 +1,14 @@
+{
+  "name": "setpublicgithuborg",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Display your GitHub organization public on your profile.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Github.com/JordonGarcia",
+  "license": "ISC"
+}
